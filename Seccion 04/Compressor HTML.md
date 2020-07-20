@@ -1,0 +1,1 @@
+https://htmlcompressor.com/compressor/

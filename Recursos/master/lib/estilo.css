@@ -1,22 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
-
-.row div {
-    background-color: #E6E2EB;
-    border: 1px solid black;    
-}
-
-.red {
-    color: red;
-}
-
-.f32 {
-    font-size: 32px;
-}
-
-.fontGoogle {
-    font-family: 'Open Sans Condensed', sans-serif;
-}
-
-.blokk {
-    font-family: BLOKKRegular;
+.css3class {
+    width: 500px;
+    height: 500px;
+    background-color: silver;
+    margin-left: 10%;
+    
+    -webkit-border-radius: 0 50px 0 0;
+    border-radius: 0 50px 0 0;
 }

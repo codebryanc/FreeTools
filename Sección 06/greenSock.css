@@ -1,0 +1,13 @@
+#divCajaRoja {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    opacity: 0.2;
+}
+
+#divCajaAzul {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    opacity: 0.5;
+}

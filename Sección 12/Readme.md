@@ -1,0 +1,1 @@
+Es esta sección vi colorzilla un plugin eficaz para sacar el color de una pantalla y https://atomiks.github.io/tippyjs/ que no requiere jQuery

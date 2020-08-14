@@ -2,8 +2,6 @@
 
 console.log("Vamos bien!");
 
-( function( $ ) {
-
-	$( '.swipebox' ).swipebox();
-
-} )( jQuery );
+$(document).ready(function() {
+	$(".fancyBox").fancybox();
+})
